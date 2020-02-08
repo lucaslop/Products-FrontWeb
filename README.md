@@ -6,7 +6,7 @@ Esse Projeto é front-end que consome a [API](https://github.com/lucaslop/Produc
 
 1. Execute git clone `https://github.com/lucaslop/Products-FrontWeb`
 
-2. Na pasta do projeto execute `npm start` 
+2. Na pasta do projeto execute `react start` 
 
 3. O Projeto estará acessivel em  `localhost:3000`
 
